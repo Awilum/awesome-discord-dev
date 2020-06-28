@@ -16,8 +16,11 @@
 ### PHP Frameworks
 | Community | Description |
 | --- | --- |
-| <h4>Laravel</h4> [![Discord](https://img.shields.io/discord/297040613688475649.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/mPZNm7A) | Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things. |
+| <h4>Laravel</h4> [![Discord](https://img.shields.io/discord/297040613688475649.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/mPZNm7A) | Laravel is a web application framework with expressive, elegant syntax. |
 
 ### JS Frameworks
+| Community | Description |
+| --- | --- |
+| <h4>Svelte</h4> [![Discord](https://img.shields.io/discord/457912077277855764.svg?logo=discord&color=black&label=Discord%20Chat)](https://svelte.dev/chat) | Cybernetically enhanced web apps |
 
 ### CSS Frameworks
