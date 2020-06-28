@@ -25,5 +25,7 @@
 | Community | Description |
 | --- | --- |
 | <h4>Svelte</h4> [![Discord](https://img.shields.io/discord/457912077277855764.svg?logo=discord&color=black&label=Discord%20Chat)](https://svelte.dev/chat) | Cybernetically enhanced web apps |
+| <h4>Vue</h4> [![Discord](https://img.shields.io/discord/325477692906536972.svg?logo=discord&color=black&label=Discord%20Chat)](https://chat.vuejs.org/) | The Progressive JavaScript Framework |
+
 
 ### CSS Frameworks
