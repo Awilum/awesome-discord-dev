@@ -29,3 +29,9 @@
 
 
 ### CSS Frameworks
+
+### Package Managers
+| Community | Description |
+| --- | --- |
+| <h4>Yarn</h4> [![Discord](https://img.shields.io/discord/226791405589233664.svg?logo=discord&color=black&label=Discord%20Chat)](http://discord.gg/yarnpkg) | Yarn is a package manager that doubles down as project manager. |
+
