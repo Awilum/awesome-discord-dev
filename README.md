@@ -3,12 +3,12 @@
 > A list of Developer Discord Communities.
 
 ## Contents
-- [Content Management System](#content-management-system)
+- [CMS](#cms)
 - [PHP](#php)
 - [JS](#js)
 - [CSS](#css)
 
-### Content Management System (CMS)
+### CMS(Content Management System)
 | Community | Description |
 | --- | --- |
 | <h4>[Craft CMS](https://craftcms.com)</h4> [![Discord](https://img.shields.io/discord/456442477667418113.svg?logo=discord&color=black&label=Discord%20Chat)](https://craftcms.com/discord) | Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond. |
