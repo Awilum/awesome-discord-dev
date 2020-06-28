@@ -19,12 +19,12 @@
 ### PHP Frameworks
 | Community | Description |
 | --- | --- |
-| <h4>Laravel</h4> [![Discord](https://img.shields.io/discord/297040613688475649.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/mPZNm7A) | Laravel is a web application framework with expressive, elegant syntax. |
+| <h4>[Laravel](https://laravel.com)</h4> | Laravel is a web application framework with expressive, elegant syntax. <br><br> [![Discord](https://img.shields.io/discord/297040613688475649.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/mPZNm7A)|
 
 ### JS Frameworks
 | Community | Description |
 | --- | --- |
-| <h4>Svelte</h4> [![Discord](https://img.shields.io/discord/457912077277855764.svg?logo=discord&color=black&label=Discord%20Chat)](https://svelte.dev/chat) | Cybernetically enhanced web apps |
+| <h4>[Svelte](https://svelte.dev)</h4> | Cybernetically enhanced web apps <br><br> [![Discord](https://img.shields.io/discord/457912077277855764.svg?logo=discord&color=black&label=Discord%20Chat)](https://svelte.dev/chat) |
 | <h4>Vue</h4> [![Discord](https://img.shields.io/discord/325477692906536972.svg?logo=discord&color=black&label=Discord%20Chat)](https://chat.vuejs.org/) | The Progressive JavaScript Framework |
 | <h4>Reactiflux</h4> [![Discord](https://img.shields.io/discord/102860784329052160.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/reactiflux) | Reactiflux, the largest community of React developers (70,000+)! |
 | <h4>Vuetify</h4> [![Discord](https://img.shields.io/discord/102860784329052160.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/vuetifyjs) | Vuetify is a Vue UI Library with beautifully handcrafted Material Components. No design skills required — everything you need to create amazing applications is at your fingertips. |
