@@ -9,6 +9,11 @@
 - [CSS Frameworks](#css-frameworks)
 
 ### Content Management System (CMS)
+
+#### Craft CMS
+[![Discord](https://img.shields.io/discord/456442477667418113.svg?logo=discord&color=black&label=Discord%20Chat)](https://craftcms.com/discord)
+<p>Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.</p>
+
 | Community | Description |
 | --- | --- |
 | <h4>Craft CMS</h4> [![Discord](https://img.shields.io/discord/456442477667418113.svg?logo=discord&color=black&label=Discord%20Chat)](https://craftcms.com/discord) | Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond. |
