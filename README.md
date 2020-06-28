@@ -40,4 +40,4 @@
 ### Tools
 | Community | Description |
 | --- | --- |
-| <h4>Sia</h4> [![Discord](https://img.shields.io/discord/341359001797132308.svg?logo=discord&color=black&label=Discord%20Chat)](http://discord.gg/yarnpkg) | Sia is the leading decentralized cloud storage platform. No signups, no servers, no trusted third parties. Sia leverages blockchain technology to create a data storage marketplace that is more robust and more affordable than traditional cloud storage providers. |
+| <h4>Sia</h4> [![Discord](https://img.shields.io/discord/341359001797132308.svg?logo=discord&color=black&label=Discord%20Chat)](http://discord.gg/yarnpkg) | Sia is the leading decentralized cloud storage platform.|
