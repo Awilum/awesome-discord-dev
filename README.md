@@ -1,7 +1,8 @@
-# Awesome Developer Discord Communities.
-
-> A list of Developer Discord Communities.
-
+<center>
+<h1>Awesome Developer Discord Communities.</h1>
+A list of Developer Discord Communities.
+</center>
+  
 ## Contents
 - [CMS](#cms)
 - [PHP](#php)
