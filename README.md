@@ -9,7 +9,7 @@
 - [CSS](#css)
 
 ### CMS(Content Management System)
-| Name | Desciption & Links |
+| Name | Description & Links |
 | --- | --- |
 | <h4>[Craft CMS](https://craftcms.com)</h4>| Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond. <br><br> [![Discord](https://img.shields.io/discord/456442477667418113.svg?logo=discord&color=black&label=Discord%20Chat)](https://craftcms.com/discord) |
 | <h4>[Flextype](https://flextype.org)</h4> | The freedom of a headless CMS with the full functionality of a traditional CMS. <br><br> [![Discord](https://img.shields.io/discord/423097982498635778.svg?logo=discord&color=black&label=Discord%20Chat)](https://flextype.org/en/discord) |
@@ -17,12 +17,12 @@
 | <h4>[Statamic](https://statamic.com)</h4> | Build better, easier to manage websites. <br><br> [![Discord](https://img.shields.io/discord/489818810157891584.svg?logo=discord&color=black&label=Discord%20Chat)](https://statamic.com/discord) |
 
 ### PHP Frameworks
-| Name | Desciption & Links |
+| Name | Description & Links |
 | --- | --- |
 | <h4>[Laravel](https://laravel.com)</h4> | Laravel is a web application framework with expressive, elegant syntax. <br><br> [![Discord](https://img.shields.io/discord/297040613688475649.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/mPZNm7A)|
 
 ### JS Frameworks
-| Name | Desciption & Links |
+| Name | Description & Links |
 | --- | --- |
 | <h4>[Svelte](https://svelte.dev)</h4> | Cybernetically enhanced web apps <br><br> [![Discord](https://img.shields.io/discord/457912077277855764.svg?logo=discord&color=black&label=Discord%20Chat)](https://svelte.dev/chat) |
 | <h4>[Vue](https://vuejs.org)</h4> | The Progressive JavaScript Framework <br><br> [![Discord](https://img.shields.io/discord/325477692906536972.svg?logo=discord&color=black&label=Discord%20Chat)](https://chat.vuejs.org/)|
@@ -32,6 +32,6 @@
 ### CSS Frameworks
 
 ### Package Managers
-| Name | Desciption & Links |
+| Name | Description & Links |
 | --- | --- |
 | <h4>[Yarn](https://yarnpkg.com)</h4> | Yarn is a package manager that doubles down as project manager. <br><br> [![Discord](https://img.shields.io/discord/226791405589233664.svg?logo=discord&color=black&label=Discord%20Chat)](http://discord.gg/yarnpkg)|
