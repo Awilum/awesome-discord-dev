@@ -11,10 +11,10 @@
 ### CMS(Content Management System)
 | Community | Description |
 | --- | --- |
-| <h4>[Craft CMS](https://craftcms.com)</h4> | Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond. <hr> [![Discord](https://img.shields.io/discord/456442477667418113.svg?logo=discord&color=black&label=Discord%20Chat)](https://craftcms.com/discord) |
-| <h4>[Flextype](https://flextype.org)</h4> [![Discord](https://img.shields.io/discord/423097982498635778.svg?logo=discord&color=black&label=Discord%20Chat)](https://flextype.org/en/discord) |  The freedom of a headless CMS with the full functionality of a traditional CMS. |
-| <h4>[Grav](https://getgrav.org)</h4> [![Discord](https://img.shields.io/discord/501836936584101899.svg?logo=discord&color=black&label=Discord%20Chat)](https://chat.getgrav.org) |  Grav is a modern open source flat-file CMS |
-| <h4>[Statamic](https://statamic.com)</h4> [![Discord](https://img.shields.io/discord/489818810157891584.svg?logo=discord&color=black&label=Discord%20Chat)](https://statamic.com/discord) |  Build better, easier to manage websites. |
+| <h4>[Craft CMS](https://craftcms.com)</h4>| Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond. <br><br> [![Discord](https://img.shields.io/discord/456442477667418113.svg?logo=discord&color=black&label=Discord%20Chat)](https://craftcms.com/discord) |
+| <h4>[Flextype](https://flextype.org)</h4> | The freedom of a headless CMS with the full functionality of a traditional CMS. <br><br> [![Discord](https://img.shields.io/discord/423097982498635778.svg?logo=discord&color=black&label=Discord%20Chat)](https://flextype.org/en/discord) |
+| <h4>[Grav](https://getgrav.org)</h4> | Grav is a modern open source flat-file CMS <br><br> [![Discord](https://img.shields.io/discord/501836936584101899.svg?logo=discord&color=black&label=Discord%20Chat)](https://chat.getgrav.org)|
+| <h4>[Statamic](https://statamic.com)</h4> | Build better, easier to manage websites. <br><br> [![Discord](https://img.shields.io/discord/489818810157891584.svg?logo=discord&color=black&label=Discord%20Chat)](https://statamic.com/discord) |
 
 ### PHP Frameworks
 | Community | Description |
