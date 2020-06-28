@@ -26,7 +26,7 @@
 | --- | --- |
 | <h4>Svelte</h4> [![Discord](https://img.shields.io/discord/457912077277855764.svg?logo=discord&color=black&label=Discord%20Chat)](https://svelte.dev/chat) | Cybernetically enhanced web apps |
 | <h4>Vue</h4> [![Discord](https://img.shields.io/discord/325477692906536972.svg?logo=discord&color=black&label=Discord%20Chat)](https://chat.vuejs.org/) | The Progressive JavaScript Framework |
-| <h4>Reactiflux</h4> [![Discord](https://img.shields.io/discord/102860784329052160.svg?logo=discord&color=black&label=Discord%20Chat)](https://chat.vuejs.org/) | Reactiflux, the largest community of React developers (70,000+)! |
+| <h4>Reactiflux</h4> [![Discord](https://img.shields.io/discord/102860784329052160.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/reactiflux) | Reactiflux, the largest community of React developers (70,000+)! |
 
 
 ### CSS Frameworks
