@@ -4,9 +4,9 @@
 
 ## Contents
 - [Content Management System](#content-management-system)
-- [PHP Frameworks](#php-frameworks)
-- [JS Frameworks](#js-frameworks)
-- [CSS Frameworks](#css-frameworks)
+- [PHP](#php)
+- [JS](#js)
+- [CSS](#css)
 
 ### Content Management System (CMS)
 | Community | Description |
@@ -27,7 +27,7 @@
 | <h4>Svelte</h4> [![Discord](https://img.shields.io/discord/457912077277855764.svg?logo=discord&color=black&label=Discord%20Chat)](https://svelte.dev/chat) | Cybernetically enhanced web apps |
 | <h4>Vue</h4> [![Discord](https://img.shields.io/discord/325477692906536972.svg?logo=discord&color=black&label=Discord%20Chat)](https://chat.vuejs.org/) | The Progressive JavaScript Framework |
 | <h4>Reactiflux</h4> [![Discord](https://img.shields.io/discord/102860784329052160.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/reactiflux) | Reactiflux, the largest community of React developers (70,000+)! |
-
+| <h4>Vuetify</h4> [![Discord](https://img.shields.io/discord/102860784329052160.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/vuetifyjs) | Vuetify is a Vue UI Library with beautifully handcrafted Material Components. No design skills required — everything you need to create amazing applications is at your fingertips. |
 
 ### CSS Frameworks
 
