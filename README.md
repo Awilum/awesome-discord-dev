@@ -1,7 +1,6 @@
-<center>
-<h1>Awesome Developer Discord Communities.</h1>
-A list of Developer Discord Communities.
-</center>
+<h1 align="center">Awesome Developer Discord Communities.</h1>
+<p align="center">A list of Developer Discord Communities.</p>
+
   
 ## Contents
 - [CMS](#cms)
