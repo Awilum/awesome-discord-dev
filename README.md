@@ -40,4 +40,4 @@
 ### Tools
 | Community | Description |
 | --- | --- |
-| <h4>Sia</h4> [![Discord](https://img.shields.io/discord/341359001797132308.svg?logo=discord&color=black&label=Discord%20Chat)](http://discord.gg/yarnpkg) | Sia is the leading decentralized cloud storage platform.|
+| <h4>Sia</h4> [![Discord](https://img.shields.io/discord/341359001797132308.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/sia) | Sia is the leading decentralized cloud storage platform.|
