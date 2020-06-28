@@ -35,9 +35,3 @@
 | Community | Description |
 | --- | --- |
 | <h4>Yarn</h4> [![Discord](https://img.shields.io/discord/226791405589233664.svg?logo=discord&color=black&label=Discord%20Chat)](http://discord.gg/yarnpkg) | Yarn is a package manager that doubles down as project manager. |
-
-
-### Tools
-| Community | Description |
-| --- | --- |
-| <h4>Sia</h4> [![Discord](https://img.shields.io/discord/341359001797132308.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/sia) | Sia is the leading decentralized cloud storage platform.|
