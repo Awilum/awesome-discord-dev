@@ -1,5 +1,5 @@
-<h1 align="center">Awesome Developer Discord Communities.</h1>
-<p align="center">A list of Developer Discord Communities.</p>
+<h1 align="center">Awesome Developers Discord Communities.</h1>
+<p align="center">A list of Developers Discord Communities.</p>
 
   
 ## Contents
