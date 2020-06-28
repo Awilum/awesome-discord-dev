@@ -3,7 +3,7 @@
 > A list of Developer Discord Communities.
 
 ## Contents
-- [Content Management System (CMS)](#Content Management System)
+- [Content Management System](#Content Management System)
 
 ### Content Management System (CMS)
 | Community | Description |
