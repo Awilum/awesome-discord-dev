@@ -1,12 +1,11 @@
 <h1 align="center">Awesome CMS Discord Communities.</h1>
 <p align="center">A list of CMS Discord Communities.</p>
 
-  
-## Contents
-- [CMS](#cms)
-- [PHP](#php)
-- [JS](#js)
-- [CSS](#css)
+<img align="left" height="94px" width="94px" alt="Flextype" src="images/server_icons/flextype.png" />
+The freedom of a headless CMS with the full functionality of a traditional CMS. 
+
+<img align="left" height="94px" width="94px" alt="Grav" src="images/server_icons/grav.png" />
+Grav is a modern open source flat-file CMS 
 
 ### CMS(Content Management System)
 | Name | Description & Links |
