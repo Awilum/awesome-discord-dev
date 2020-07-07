@@ -1,5 +1,5 @@
-<h1 align="center">Awesome Developers Discord Communities.</h1>
-<p align="center">A list of Developers Discord Communities.</p>
+<h1 align="center">Awesome CMS Discord Communities.</h1>
+<p align="center">A list of CMS Discord Communities.</p>
 
   
 ## Contents
@@ -16,22 +16,3 @@
 | <h4>[Grav](https://getgrav.org)</h4> | Grav is a modern open source flat-file CMS <br><br> [![Discord](https://img.shields.io/discord/501836936584101899.svg?logo=discord&color=black&label=Discord%20Chat)](https://chat.getgrav.org)|
 | <h4>[Statamic](https://statamic.com)</h4> | Build better, easier to manage websites. <br><br> [![Discord](https://img.shields.io/discord/489818810157891584.svg?logo=discord&color=black&label=Discord%20Chat)](https://statamic.com/discord) |
 
-### PHP Frameworks
-| Name | Description & Links |
-| --- | --- |
-| <h4>[Laravel](https://laravel.com)</h4> | Laravel is a web application framework with expressive, elegant syntax. <br><br> [![Discord](https://img.shields.io/discord/297040613688475649.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/mPZNm7A)|
-
-### JS Frameworks
-| Name | Description & Links |
-| --- | --- |
-| <h4>[Svelte](https://svelte.dev)</h4> | Cybernetically enhanced web apps <br><br> [![Discord](https://img.shields.io/discord/457912077277855764.svg?logo=discord&color=black&label=Discord%20Chat)](https://svelte.dev/chat) |
-| <h4>[Vue](https://vuejs.org)</h4> | The Progressive JavaScript Framework <br><br> [![Discord](https://img.shields.io/discord/325477692906536972.svg?logo=discord&color=black&label=Discord%20Chat)](https://chat.vuejs.org/)|
-| <h4>[Reactiflux](https://www.reactiflux.com)</h4> | Reactiflux, the largest community of React developers (70,000+)! <br><br> [![Discord](https://img.shields.io/discord/102860784329052160.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/reactiflux)|
-| <h4>[Vuetify](https://vuetifyjs.com/en/)</h4> | Vuetify is a Vue UI Library with beautifully handcrafted Material Components. No design skills required — everything you need to create amazing applications is at your fingertips. <br><br> [![Discord](https://img.shields.io/discord/102860784329052160.svg?logo=discord&color=black&label=Discord%20Chat)](https://discord.com/invite/vuetifyjs) |
-
-### CSS Frameworks
-
-### Package Managers
-| Name | Description & Links |
-| --- | --- |
-| <h4>[Yarn](https://yarnpkg.com)</h4> | Yarn is a package manager that doubles down as project manager. <br><br> [![Discord](https://img.shields.io/discord/226791405589233664.svg?logo=discord&color=black&label=Discord%20Chat)](http://discord.gg/yarnpkg)|
